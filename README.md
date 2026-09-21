@@ -15,10 +15,10 @@ The project is structured into two main directories:
 1. Navigate to the `frontend` directory: `cd frontend`
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
-4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the frontend.
+4. Open [(https://vlp-polymers-frontend.vercel.app/)]([http://localhost:3000](https://vlp-polymers-frontend.vercel.app/)) with your browser to see the frontend.
 
 ### Backend
 1. Navigate to the `backend` directory: `cd backend`
 2. Install dependencies: `npm install`
 3. Start the Strapi development server: `npm run develop`
-4. Access the admin dashboard at [http://localhost:1337/admin](http://localhost:1337/admin)
+4. Access the admin dashboard at [(https://vlp-polymers-frontend.vercel.app/)]([http://localhost:3000](https://vlp-polymers-frontend.vercel.app/))
